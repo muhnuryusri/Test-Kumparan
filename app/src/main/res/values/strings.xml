@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Test Kumparan</string>
+    <string name="title">Title</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sed iaculis metus, id vehicula mauris. Aenean aliquet laoreet felis ac mollis. Morbi a lorem vulputate, mattis orci sit amet, semper ante. Mauris quam justo, dignissim eu orci vel, euismod placerat arcu. Ut id sapien libero. Curabitur nulla odio, fermentum sit amet molestie quis, iaculis non massa. Suspendisse finibus quis ante eleifend consectetur. Phasellus erat orci, pulvinar non ipsum et, faucibus tristique ligula. Curabitur aliquam volutpat dolor quis dignissim.</string>
+    <string name="lorem_ipsum_short">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sed iaculis metus, id vehicula mauris.</string>
+    <string name="username">Username</string>
+    <string name="company">Company</string>
+    <string name="strip">-</string>
+    <string name="total_comment">0</string>
+    <string name="comment">Comment</string>
+</resources>
